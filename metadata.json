@@ -1,0 +1,8 @@
+{
+  "name": "Cloud-Basin Enterprise Intelligence",
+  "description": "Professional-grade AI-powered cyber threat detection and digital forensics platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
